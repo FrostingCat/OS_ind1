@@ -10,7 +10,7 @@
 #include <sys/shm.h>
 #include <string.h>
 
-const int size = 5000;
+const int size = 5001;
 
 int main(int argc, char *argv[]) {
     char fd, fd1;
